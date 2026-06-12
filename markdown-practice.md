@@ -23,23 +23,24 @@ I want to learn **web development**, *Github*, and `markdown`.
 
 ## Tools I Use 
 
-|Tool | Purpose        | Link
-|-----|----------------|
+|Tool | Purpose        | Link                |
+|-----|----------------|---------------------
 | GitHub| To Store Codes| https://github.com |
 |VS Code |Write your codes| https://code.visualstudio.com |
 
 # Learning Tasks
 
-- Createa GitHub account
-- Create a GitHub profile README
-- Create a repository
-- Make a commit
-- Create a simple website with GitHub Pages
+- [x] Create a GitHub account
+- [x] Create a GitHub profile README
+- [x] Create a repository
+- [x] Make a commit
+- [x] Create a simple website with GitHub Pages
 
 ## Example Code
 
-   python
+```python
 print("Hello, world!")
+```
 
 ## Advice
 > You don't have to know everything, and you don't have to succed everytime. What matters is that you keep moving forward.
