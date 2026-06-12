@@ -2,7 +2,7 @@
 
 ### This Semester
 
-I want to learn **web development**, *Github*, and `markdown`.
+I want to learn ***web development***, *Github*, and `markdown`.
 
 ## Useful Links
 
@@ -11,13 +11,13 @@ I want to learn **web development**, *Github*, and `markdown`.
 
 ## Things I Want to Learn 
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Steps to Make a Commit
 
-1. Edit you File
+1.Edit you File
 2.Add a commit message
 3.Click "Commit changes"
 
@@ -44,3 +44,14 @@ print("Hello, world!")
 
 ## Advice
 > You don't have to know everything, and you don't have to succed everytime. What matters is that you keep moving forward.
+
+## About Me
+
+My name is Lance
+
+I am learning Computer   Programming
+
+### My Goals
+- Learn HTML
+- Learn CSS
+- Learn JavaScript
