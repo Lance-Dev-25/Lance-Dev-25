@@ -1,4 +1,4 @@
-## My Learning Goals
+# My Learning Goals
 
 ### This Semester
 
@@ -15,7 +15,7 @@ I want to learn **web development**, *Github*, and `markdown`.
 -CSS
 -JavaScript
 
-## Steps to Mkae a Commit
+## Steps to Make a Commit
 
 1. Edit you File
 2.Add a commit message
