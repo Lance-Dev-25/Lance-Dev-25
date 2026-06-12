@@ -17,9 +17,9 @@ I want to learn ***web development***, *Github*, and `markdown`.
 
 ## Steps to Make a Commit
 
-1.Edit you File
-2.Add a commit message
-3.Click "Commit changes"
+1. Edit you File
+2. Add a commit message
+3. Click "Commit changes"
 
 ## Tools I Use 
 
